@@ -2,3 +2,4 @@
 Initial dummy repo.
 
 It's really dummy!
+La-la-la.
